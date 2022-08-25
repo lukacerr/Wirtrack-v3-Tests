@@ -8,7 +8,7 @@ function MainNav() {
   let showNAF = true;
   const toggleNAF = () => {
     // TODO
-    console.log('toggle');
+    console.log('toggle todo');
   };
 
   return (
@@ -16,7 +16,7 @@ function MainNav() {
       <Toolbar variant="dense" sx={{ justifyContent: 'space-between' }}>
         <Typography variant="h6">Wirtrack v2, embed en React!</Typography>
         <Button onClick={toggleNAF} variant="contained">
-          Toggle nav & footer
+          (TODO) Toggle nav & footer
         </Button>
       </Toolbar>
     </AppBar>
