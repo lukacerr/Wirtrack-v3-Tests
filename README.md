@@ -17,6 +17,6 @@ _FALTA HACER: Con el botón de `TOGGLE NAV & FOOTER` de arriba a la derecha vemo
 Commit de cambios al front: [Click acá](https://bitbucket.org/mcastro_wirsolut/wirtrack/commits/27d7763af7bb321bb18d8b8f0ae291b161324fd3)
 Branch: `W3_cookie_edit`
 
-###### Se subieron breves modificaciones en el front, en la carpeta `luka_2` que es la instancia de Wirtrack donde apunta el prototipo funcional.
+###### Se subieron breves modificaciones en el front, en una VM nueva; es la instancia de Wirtrack donde apunta el prototipo funcional.
 
 _Nota: Este proyecto, correspondiente al prototipo, no se subió al repositorio principal, en ningún lado._
